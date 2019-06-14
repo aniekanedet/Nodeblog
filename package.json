@@ -1,0 +1,31 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "A Node js blog\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniekanedet/Nodeblog.git"
+  },
+  "keywords": [
+    "Blog",
+    "Nodejs",
+    "javaScript",
+    "Bootstrap"
+  ],
+  "author": "Aniekan edet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniekanedet/Nodeblog/issues"
+  },
+  "homepage": "https://github.com/aniekanedet/Nodeblog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-edge": "^1.0.0",
+    "mongoose": "^5.5.14",
+    "nodemon": "^1.19.1"
+  }
+}
