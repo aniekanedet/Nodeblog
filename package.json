@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/aniekanedet/Nodeblog#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-edge": "^1.0.0",
     "mongoose": "^5.5.14",
     "nodemon": "^1.19.1"
